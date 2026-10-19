@@ -1,0 +1,11 @@
+{
+  "name": "salg-motion",
+  "description": "Motion ASCII onetake: reels e VSL em que milhares de caracteres ASCII se transformam no símbolo de cada frase. Motor completo, regras de estilo, estilo para landing page, comandos e agentes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Salg System",
+    "email": "salgsystem@gmail.com"
+  },
+  "repository": "https://github.com/salgsystem/pluginvideo",
+  "keywords": ["video", "motion", "ascii", "reels", "vsl", "onetake", "landing-page"]
+}

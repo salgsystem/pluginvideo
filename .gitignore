@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+frames/
+frames_*/
+stills/
+_trecho.mp4
+.DS_Store
+Thumbs.db

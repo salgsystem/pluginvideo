@@ -1,0 +1,28 @@
+Duração total: 71.81 s  ·  188 palavras
+
+Você@0.00 ainda@0.38 acredita@0.66 que@1.28 a@1.42 inteligência@1.46 artificial@2.18 não@2.58 cabe@3.16 em@3.56 todos@3.74 os@4.02 negócios?@4.22
+Eu@4.98 quero@5.16 usar@5.40 de@5.60 exemplo@5.82 a@6.18 confeiteira.@6.46
+O@7.32 problema@7.64 da@8.02 confeiteira@8.22 não@8.96 é@9.10 fazer@9.28 bolo,@9.52
+é@10.00 descobrir@10.16 se@10.52 ela@10.80 está@10.96 ganhando@11.08 dinheiro@11.50 com@11.94 cada@12.30 encomenda.@12.56
+O@13.36 cliente@13.74 pede@14.22 um@14.50 bolo@14.60 personalizado,@14.86
+manda@15.96 três@16.36 referências@16.58 no@17.26 WhatsApp,@17.46
+muda@18.02 o@18.48 recheio,@18.52
+pede@19.06 decoração@19.34 diferente@19.94 e@20.24 pergunta@20.78 quanto@21.24 vai@21.70 custar.@22.08
+Ela@22.76 calcula@23.08 os@23.66 ingredientes,@23.72
+tenta@24.60 lembrar@25.04 quanto@25.38 pagou@25.74 em@26.34 cada@26.44 um@26.62 e@26.94 passa@27.44 um@27.68 preço@27.86 que@28.20 talvez@28.50 nem@28.82 cubra@29.22 os@29.76 custos.@29.86
+Então,@30.72
+eu@31.38 criaria@31.52 um@31.88 aplicativo@32.00 onde@32.66 ela@32.88 cadastra@33.04 os@33.74 ingredientes,@33.84
+monta@34.66 a@35.44 receita,@35.44
+adiciona@36.14 a@36.90 decoração@36.94 e@37.54 calcula@37.70 o@38.26 custo@38.28 real@38.72 de@38.96 cada@39.26 encomenda.@39.46
+O@40.16 pedido@40.32 fica@40.70 salvo@40.86 com@41.44 as@41.54 referências,@41.64
+a@42.44 data@42.66 de@43.02 entrega@43.14 e@43.72 o@43.86 principal,@44.02
+o@44.70 sinal@44.88 pago@45.24 e@45.76 o@46.02 valor@46.08 restante@46.36 no@47.04 dia@47.38 da@47.64 entrega.@47.80
+Ela@48.40 continua@48.78 fazendo@49.14 bolos@49.54 incríveis,@50.02
+mas@50.64 o@51.02 sistema@51.16 calcula@51.58 tudo,@53.18
+cuida@53.66 dos@54.04 números@54.16 e@54.50 do@54.72 pedido,@54.76
+porque@55.26 não@55.66 adianta@55.96 fazer...@56.68
+um@56.94 bolo@57.06 perfeito@57.36 e@58.02 não@58.24 saber@58.54 quanto@58.90 ganhou@59.52 com@60.08 ele.@60.28
+Comenta@61.24 aqui@61.72 abaixo@61.82 a@62.36 sua@62.44 profissão.@62.62
+A@63.38 próxima@63.60 rodada@63.98 pode@64.58 ser@64.82 a@65.02 sua@65.10 e@65.42 eu@65.62 posso@65.76 te@65.94 mostrar@66.08 uma@66.44 solução@66.62 viável.@67.18
+Não@67.90 deixe@68.12 de@68.44 seguir,@68.56
+curtir@69.02 e@69.58 compartilhar.@69.86

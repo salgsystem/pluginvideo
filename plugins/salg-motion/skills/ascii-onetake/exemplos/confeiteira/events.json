@@ -1,0 +1,370 @@
+[
+ {
+  "t": 1.2,
+  "kind": "morph",
+  "d": 1.2000000000000002,
+  "shape": "ia"
+ },
+ {
+  "t": 2.45,
+  "kind": "morph",
+  "d": 0.8,
+  "shape": "nofit"
+ },
+ {
+  "t": 3.5,
+  "kind": "morph",
+  "d": 1.15,
+  "shape": "shops"
+ },
+ {
+  "t": 6.1,
+  "kind": "morph",
+  "d": 1.3,
+  "shape": "cake"
+ },
+ {
+  "t": 9.95,
+  "kind": "morph",
+  "d": 1,
+  "shape": "cakeq"
+ },
+ {
+  "t": 12.15,
+  "kind": "morph",
+  "d": 1.1,
+  "shape": "orders"
+ },
+ {
+  "t": 13.3,
+  "kind": "morph",
+  "d": 1.2000000000000002,
+  "shape": "chat"
+ },
+ {
+  "t": 17.85,
+  "kind": "morph",
+  "d": 1.1,
+  "shape": "recheio"
+ },
+ {
+  "t": 20.6,
+  "kind": "morph",
+  "d": 1.0499999999999998,
+  "shape": "tag"
+ },
+ {
+  "t": 22.55,
+  "kind": "morph",
+  "d": 1.25,
+  "shape": "ingr"
+ },
+ {
+  "t": 27.25,
+  "kind": "morph",
+  "d": 0.8999999999999999,
+  "shape": "bars"
+ },
+ {
+  "t": 30.55,
+  "kind": "morph",
+  "d": 0.7,
+  "shape": "cursor"
+ },
+ {
+  "t": 31.45,
+  "kind": "morph",
+  "d": 1.4,
+  "shape": "app"
+ },
+ {
+  "t": 40,
+  "kind": "morph",
+  "d": 1.15,
+  "shape": "order"
+ },
+ {
+  "t": 48.2,
+  "kind": "morph",
+  "d": 1.3,
+  "shape": "cake2"
+ },
+ {
+  "t": 51,
+  "kind": "morph",
+  "d": 1.15,
+  "shape": "cakesys"
+ },
+ {
+  "t": 55.2,
+  "kind": "morph",
+  "d": 1.4,
+  "shape": "cakealone"
+ },
+ {
+  "t": 61.05,
+  "kind": "morph",
+  "d": 1.0499999999999998,
+  "shape": "comment"
+ },
+ {
+  "t": 63.25,
+  "kind": "morph",
+  "d": 0.8999999999999999,
+  "shape": "wheel"
+ },
+ {
+  "t": 65.35,
+  "kind": "morph",
+  "d": 1,
+  "shape": "solution"
+ },
+ {
+  "t": 67.75,
+  "kind": "morph",
+  "d": 1.1,
+  "shape": "social"
+ },
+ {
+  "t": 3.15,
+  "kind": "thud"
+ },
+ {
+  "t": 3.85,
+  "kind": "sparkle",
+  "d": 0.8
+ },
+ {
+  "t": 5.3,
+  "kind": "pop"
+ },
+ {
+  "t": 6.5,
+  "kind": "chime"
+ },
+ {
+  "t": 10.12,
+  "kind": "pop"
+ },
+ {
+  "t": 11.42,
+  "kind": "coins"
+ },
+ {
+  "t": 12.25,
+  "kind": "knocks",
+  "n": 5,
+  "step": 0.1
+ },
+ {
+  "t": 13.85,
+  "kind": "pop"
+ },
+ {
+  "t": 14.85,
+  "kind": "pop"
+ },
+ {
+  "t": 16.36,
+  "kind": "pop"
+ },
+ {
+  "t": 16.6,
+  "kind": "pop"
+ },
+ {
+  "t": 16.9,
+  "kind": "pop"
+ },
+ {
+  "t": 17.4,
+  "kind": "pop"
+ },
+ {
+  "t": 18.35,
+  "kind": "scan",
+  "d": 0.9
+ },
+ {
+  "t": 19.3,
+  "kind": "sparkle",
+  "d": 1
+ },
+ {
+  "t": 22.05,
+  "kind": "thud"
+ },
+ {
+  "t": 24.5,
+  "kind": "ticks",
+  "d": 2.4,
+  "rate": 16
+ },
+ {
+  "t": 27.42,
+  "kind": "pop"
+ },
+ {
+  "t": 28.45,
+  "kind": "tension",
+  "d": 1.4
+ },
+ {
+  "t": 29.86,
+  "kind": "loss"
+ },
+ {
+  "t": 29.86,
+  "kind": "thud"
+ },
+ {
+  "t": 30.55,
+  "kind": "drop"
+ },
+ {
+  "t": 31.5,
+  "kind": "knocks",
+  "n": 4,
+  "step": 0.14
+ },
+ {
+  "t": 33,
+  "kind": "pop"
+ },
+ {
+  "t": 34.62,
+  "kind": "pop"
+ },
+ {
+  "t": 36.1,
+  "kind": "pop"
+ },
+ {
+  "t": 38.28,
+  "kind": "chime"
+ },
+ {
+  "t": 38.3,
+  "kind": "ticks",
+  "d": 1.2,
+  "rate": 22
+ },
+ {
+  "t": 40.86,
+  "kind": "thud"
+ },
+ {
+  "t": 40.9,
+  "kind": "chime"
+ },
+ {
+  "t": 41.6,
+  "kind": "pop"
+ },
+ {
+  "t": 41.78,
+  "kind": "pop"
+ },
+ {
+  "t": 41.96,
+  "kind": "pop"
+ },
+ {
+  "t": 42.62,
+  "kind": "pop"
+ },
+ {
+  "t": 44.85,
+  "kind": "coins"
+ },
+ {
+  "t": 46.05,
+  "kind": "pop"
+ },
+ {
+  "t": 47.4,
+  "kind": "chime"
+ },
+ {
+  "t": 49.4,
+  "kind": "sparkle",
+  "d": 1.2
+ },
+ {
+  "t": 51.9,
+  "kind": "ticks",
+  "d": 3.1,
+  "rate": 14
+ },
+ {
+  "t": 53.66,
+  "kind": "pop"
+ },
+ {
+  "t": 54.16,
+  "kind": "pop"
+ },
+ {
+  "t": 54.76,
+  "kind": "pop"
+ },
+ {
+  "t": 58.25,
+  "kind": "dim",
+  "d": 0.9
+ },
+ {
+  "t": 59.5,
+  "kind": "loss"
+ },
+ {
+  "t": 61.2,
+  "kind": "pop"
+ },
+ {
+  "t": 62.45,
+  "kind": "type",
+  "d": 0.65
+ },
+ {
+  "t": 63.3,
+  "kind": "spin",
+  "d": 1.8,
+  "end": 12.880529879718152,
+  "n": 10
+ },
+ {
+  "t": 65.1,
+  "kind": "thud"
+ },
+ {
+  "t": 65.6,
+  "kind": "knocks",
+  "n": 8,
+  "step": 0.16
+ },
+ {
+  "t": 67.12,
+  "kind": "coins"
+ },
+ {
+  "t": 67.12,
+  "kind": "bloom"
+ },
+ {
+  "t": 68.5,
+  "kind": "pop"
+ },
+ {
+  "t": 68.98,
+  "kind": "pop"
+ },
+ {
+  "t": 69.8,
+  "kind": "pop"
+ },
+ {
+  "t": 69.85,
+  "kind": "chime"
+ }
+]

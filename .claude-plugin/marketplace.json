@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "salg-video",
+  "owner": {
+    "name": "Salg System",
+    "email": "salgsystem@gmail.com"
+  },
+  "metadata": {
+    "description": "Plugins de produção de vídeo da Salg: motion ASCII onetake para VSL e reels, com motor, regras de estilo, comandos e agentes."
+  },
+  "plugins": [
+    {
+      "name": "salg-motion",
+      "description": "Motion ASCII onetake: reels e VSL em que milhares de caracteres ASCII se transformam no símbolo de cada frase. Motor completo (estilo realista e traço), corte de silêncios, transcrição, trilha sintetizada, render com motion blur, guia de estilo, estilo para landing page, comandos /novo-reel /render-reel /fechar-reel e agentes diretor e revisor.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Salg System",
+        "email": "salgsystem@gmail.com"
+      },
+      "source": "./plugins/salg-motion",
+      "category": "video",
+      "tags": ["video", "motion", "ascii", "reels", "vsl", "landing-page"]
+    }
+  ]
+}
