@@ -1,11 +1,14 @@
-// campo-ascii.js — Campo ASCII para a landing page (porta do motor dos reels)
-const RAMP = ' .·:-=+*#%@';
-const SCR = '01<>/\\|=+*#%$?!';
-const CHARS = [...new Set([...RAMP, ...SCR, 'o', '▪'])];
+// campo-ascii.js — Campo ASCII para a landing page, na textura limpa do estilo "Campo Vivo" (DOC-ESTILO §18.3)
+// Grade exata, 6 tons, rampa com piso em '=', atlas de 32 px e troca de seção por FUSÃO no lugar (nada embaralha).
+const RAMP = ' .:=+#@';
+const CHARS = [...new Set([...RAMP, '·'])];
 const CI = Object.fromEntries(CHARS.map((c, i) => [c, i]));
-const TINT = ['#F2F2F5', '#A68BFF', '#6EA6FF', '#FF9B55', '#7C7C86', '#F2C14E', '#3DDC84', '#FF5A52'];
+// a ordem é a do TINT do motor: 0 branco · 1 roxo · 2 azul · 3 laranja · 4 cinza · 5 ouro (só tesouro) · 6 verde · 7 vermelho
+// · 8 rosa · 9 creme · 10 chocolate · 11 laranja Claude · 12 verde WhatsApp · 13 azul-dono · 14 marrom
+const TINT = ['#F2F2F5', '#A68BFF', '#6EA6FF', '#FF9B55', '#7C7C86', '#F2C14E', '#3DDC84', '#FF5A52',
+  '#FF8FB8', '#F6E3C2', '#B97A55', '#E07A55', '#25D366', '#4D8DFF', '#9C6B3F'];
 const PAL = TINT.map(h => [1, 3, 5].map(k => parseInt(h.slice(k, k + 2), 16)));
-const GOLD = 5, GREEN = 6;
+const HUE_TINTS = [1, 2, 3, 6, 7]; // o matiz do desenho só cai nestas; ouro e as outras entram por { tint } (sem amarelo vazado)
 
 const clamp = (x, a = 0, b = 1) => (x < a ? a : x > b ? b : x);
 const E = {
@@ -34,7 +37,7 @@ export function createField(canvas, { N = 8000, cellPx = 4 } = {}) {
   let W = 0, H = 0, cell = 10;
   const fit = () => Math.min(W / 1000, H / 1150);           // escala do espaço da forma para a tela
   // atlas: cada caractere em cada cor, desenhado uma vez
-  const C = 48, atlas = document.createElement('canvas');
+  const C = 32, atlas = document.createElement('canvas');
   atlas.width = CHARS.length * C; atlas.height = TINT.length * C;
   const ag = atlas.getContext('2d');
   ag.font = `500 ${C * 0.78}px 'JetBrains Mono', monospace`; ag.textAlign = 'center'; ag.textBaseline = 'middle';
@@ -48,7 +51,8 @@ export function createField(canvas, { N = 8000, cellPx = 4 } = {}) {
   let morph = null;
 
   // lê um desenho em grade → lista de destinos {x, y, a, c, t, s}
-  function imgPts(draw, { w = 1000, h = 1100, money = false } = {}) {
+  // { tint }: força uma tinta para a forma inteira (ex.: 13 = azul-dono, 5 = ouro de tesouro)
+  function imgPts(draw, { w = 1000, h = 1100, tint = null } = {}) {
     const cv = document.createElement('canvas'); cv.width = w; cv.height = h;
     const g = cv.getContext('2d', { willReadFrequently: true });
     g.translate(w / 2, h / 2); draw(g);
@@ -64,22 +68,24 @@ export function createField(canvas, { N = 8000, cellPx = 4 } = {}) {
       if (lum < 0.08) continue;
       const mx = Math.max(R, Gc, B), mn = Math.min(R, Gc, B);
       let t = 0;
-      if (mx > 0 && (mx - mn) / mx > 0.25) { // cor de significado mais próxima pelo matiz
+      if (tint !== null) t = tint;
+      else if (mx > 0 && (mx - mn) / mx > 0.25) { // cor de significado mais próxima pelo matiz
         let best = 1e9;
-        PAL.forEach(([pr, pg, pb], ti) => { if (ti === 0 || ti === 4) return; const s = Math.max(pr, pg, pb);
+        HUE_TINTS.forEach(ti => { const [pr, pg, pb] = PAL[ti], s = Math.max(pr, pg, pb);
           const dd = (R / mx - pr / s) ** 2 + (Gc / mx - pg / s) ** 2 + (B / mx - pb / s) ** 2; if (dd < best) { best = dd; t = ti; } });
       }
-      const rr = hash(cx * 7 + cy, 9), li = clamp(Math.pow(lum, 0.8) + (rr - 0.5) * 0.08);
-      if (money && t === GOLD && rr > 0.74) t = GREEN;
-      pts.push({ x: cx + cell / 2 - w / 2, y: cy + cell / 2 - h / 2, a: 0.38 + 0.62 * li,
-        c: CI[RAMP[clamp(Math.round(li * (RAMP.length - 1)), 1, RAMP.length - 1)]], t, s: 0.8 + 0.35 * li });
+      // leitura limpa: brilho em 6 níveis, caractere com piso em '=' (o lado escuro continua sólido), opacidade alta
+      const li = Math.round(Math.min(1, Math.pow(lum, 0.6) * 1.12) * 5) / 5;
+      const ch = RAMP[Math.max(3, Math.min(6, Math.round((0.3 + 0.7 * li) * 6)))];
+      pts.push({ x: cx + cell / 2 - w / 2, y: cy + cell / 2 - h / 2, a: 0.66 + 0.34 * li, c: CI[ch], t, s: (1.75 / 1.55) * (0.9 + 0.2 * li) });
     }
     for (const p of pts) p.hd = xy2d(1024, clamp(((p.x + 700) / 1400) * 1024 | 0, 0, 1023), clamp(((p.y + 1000) / 2000) * 1024 | 0, 0, 1023));
     return pts.sort((a, b) => a.hd - b.hd);
   }
 
-  // muda para uma forma nova (lista de pontos)
-  function setShape(pts, { d = 0.8, st = 0.4, ease = 'expoOut', sw = 80, dl = 'radial' } = {}) {
+  // muda para uma forma nova (lista de pontos). Padrão: fusão no lugar — cada agente apaga onde está e acende no destino.
+  // { fly: true } só quando o voo É a ideia (os agentes atravessam, sem embaralhar).
+  function setShape(pts, { d = 0.8, st = 0.35, ease = 'inOut', sw = 80, dl = 'radial', fly = false } = {}) {
     for (let i = 0; i < N; i++) { F.x[i] = O.x[i]; F.y[i] = O.y[i]; F.a[i] = O.a[i]; F.c[i] = O.c[i]; F.t[i] = O.t[i]; F.s[i] = O.s[i]; }
     const M = pts.length, step = M > N ? M / N : 1; // se a forma tem mais pontos que agentes, amostra uniformemente
     let mx = 1;
@@ -95,35 +101,31 @@ export function createField(canvas, { N = 8000, cellPx = 4 } = {}) {
            : dl === 'top' ? 0.8 * clamp((G.y[i] + 600) / 1200) + 0.2 * r
            : dl === 'bottom' ? 0.8 * clamp((600 - G.y[i]) / 1200) + 0.2 * r : r;
     }
-    morph = { t0: performance.now() / 1000, d, st, ease: E[ease], sw };
+    morph = { t0: performance.now() / 1000, d, st, ease: E[ease], sw, fly };
   }
 
   function step(now) {
     const m = morph; if (!m) return;
-    const fr = Math.floor(now * 22);
     for (let i = 0; i < N; i++) {
       const p = clamp((now - m.t0 - m.st * D[i]) / m.d);
       if (p <= 0) { O.x[i] = F.x[i]; O.y[i] = F.y[i]; O.a[i] = F.a[i]; O.c[i] = F.c[i]; O.t[i] = F.t[i]; O.s[i] = F.s[i]; continue; }
       const q = m.ease(p);
-      if (G.a[i] < 0.01 || F.a[i] < 0.01) { // saindo ou chegando: dissolve no lugar, nunca atravessa a tela
-        const leaving = G.a[i] < 0.01, ql = leaving ? q : 1 - q, Bx = leaving ? F : G, Ox = leaving ? G : F;
-        const dx = Ox.x[i] - Bx.x[i], dy = Ox.y[i] - Bx.y[i], dlen = Math.hypot(dx, dy) + 1e-3, mv = Math.min(dlen, 90) * ql;
-        O.x[i] = Bx.x[i] + dx / dlen * mv; O.y[i] = Bx.y[i] + dy / dlen * mv;
-        O.a[i] = Bx.a[i] * (1 - ql) ** 2; O.c[i] = ql > 0.3 ? CI[SCR[(hash(i, fr) * SCR.length) | 0]] : Bx.c[i];
-        O.t[i] = Bx.t[i]; O.s[i] = Bx.s[i]; continue;
+      if (!m.fly || G.a[i] < 0.01 || F.a[i] < 0.01) { // fusão no lugar: apaga na origem (q < .5), acende no destino (q ≥ .5)
+        const Bx = q < 0.5 ? F : G, k = q < 0.5 ? 1 - 2 * q : 2 * q - 1;
+        O.x[i] = Bx.x[i]; O.y[i] = Bx.y[i]; O.a[i] = Bx.a[i] * k; O.c[i] = Bx.c[i]; O.t[i] = Bx.t[i]; O.s[i] = Bx.s[i]; continue;
       }
       const dx = G.x[i] - F.x[i], dy = G.y[i] - F.y[i], len = Math.hypot(dx, dy) + 1e-3;
       const arc = m.sw * (hash(i, 5) - 0.5) * 2 * Math.sin(Math.PI * q) * Math.min(1, len / 300);
       O.x[i] = F.x[i] + dx * q - (dy / len) * arc; O.y[i] = F.y[i] + dy * q + (dx / len) * arc;
-      O.a[i] = F.a[i] + (G.a[i] - F.a[i]) * q + 0.3 * Math.sin(Math.PI * q); // brilho de trânsito
-      O.c[i] = q < 0.06 ? F.c[i] : q > 0.9 ? G.c[i] : CI[SCR[(hash(i, fr) * SCR.length) | 0]];
+      O.a[i] = F.a[i] + (G.a[i] - F.a[i]) * q;
+      O.c[i] = q < 0.5 ? F.c[i] : G.c[i];                         // sem embaralhar em trânsito
       O.t[i] = q < 0.5 ? F.t[i] : G.t[i]; O.s[i] = F.s[i] + (G.s[i] - F.s[i]) * q;
     }
   }
 
   function draw(now) {
     const breathe = 1 + 0.01 * Math.sin(now * 2.4);           // vida interna
-    const fx = 5 * Math.sin(now * 0.61), fy = 4 * Math.sin(now * 0.53 + 2); // mão do operador
+    const fx = 0, fy = 0;                                         // câmera parada: o movimento vem das formas
     const z = fit() * breathe;                                  // a forma cabe na área com folga
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0); ctx.clearRect(0, 0, W, H);
     for (let i = 0; i < N; i++) {

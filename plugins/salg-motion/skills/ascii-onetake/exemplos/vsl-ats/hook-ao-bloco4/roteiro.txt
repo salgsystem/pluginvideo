@@ -1,0 +1,136 @@
+Duração total: 246.53 s  ·  833 palavras
+
+Quanto@0.02 dinheiro@0.56 a@0.90 mais@1.18 já@1.40 caiu@1.74 no@2.20 seu@2.32 bolso@2.54 por@3.02 causa@3.16 da@3.48 IA?@3.72
+Se@4.02 não@4.14 caiu@4.32 nada,@4.68
+não@5.10 é@5.28 por@5.46 falta@5.60 de@5.96 gente@6.14 falando@6.36 sobre@6.78 isso.@7.26
+Tudo@7.72 o@7.92 que@8.06 aparece@8.20 no@8.48 seu@8.78 feed@8.96 sobre@9.20 IA@9.58 chega,@9.92
+no@10.50 mesmo@10.58 dia,@10.86
+para@11.32 milhões@11.42 de@11.68 pessoas.@12.10
+Usar@12.82 IA@13.16 está@13.48 virando@13.86 coisa@14.30 que@14.48 todo@14.76 mundo@14.98 faz.@15.30
+E@15.86 fazer@15.90 o@16.24 que@16.44 todo@16.50 mundo@16.74 faz@17.04 não@17.36 coloca@17.70 dinheiro@18.14 a@18.54 mais@18.82 no@19.08 bolso@19.28 de@19.70 ninguém.@19.80
+Enquanto@20.34 essa@20.80 multidão@20.94 briga@21.46 pelo@21.76 mesmo@21.94 dinheiro,@22.32
+um@22.88 grupo@22.98 pequeno,@23.20
+sem@23.78 ser@23.98 experto@24.24 em@24.76 tecnologia,@24.90
+está@25.68 usando@25.92 essa@26.28 mesma@26.56 IA@26.98 para@27.40 construir@27.54 uma@28.08 coisa@28.42 própria.@28.70
+Existe@29.14 uma@29.86 camada@30.08 da@30.62 IA@30.74 que@30.96 quase@31.04 ninguém@31.32 te@31.60 mostra,@31.92
+e@32.38 é@32.46 ela@32.54 que@32.78 separa@32.92 quem@33.34 fica@33.46 na@33.74 multidão@33.96 e@34.56 quem@34.64 vira@34.82 dono.@35.16
+Agora@35.54 inverte@35.88 a@36.42 pergunta.@36.48
+Quanto@37.16 dinheiro@37.36 sai@37.62 do@37.94 seu@38.12 bolso@38.30 todo@38.72 mês@38.92 para@39.18 Netflix@39.48 ou@39.76 qualquer@40.36 outro@40.68 streaming?@40.96
+Saindo@41.58 do@41.88 seu@42.04 bolso@42.18 ou@42.52 não,@42.60
+milhões@42.92 de@43.10 pessoas@43.38 pagam@43.70 essas@44.22 assinaturas@44.38 todo@45.08 mês.@45.30
+Quem@45.68 é@45.76 dono@45.88 recebe@46.22 de@46.64 cada@46.78 uma@46.96 dessas@47.30 pessoas,@47.54
+de@48.24 novo@48.46 e@48.70 de@48.88 novo.@49.00
+Quem@49.36 vende@49.48 o@49.84 próprio@49.94 tempo@50.16 recebe@50.52 uma@51.18 vez.@51.38
+E@51.82 até@51.94 hoje,@52.12
+você@52.56 esteve@52.82 do@53.30 lado@53.40 de@53.64 quem@53.82 paga.@53.98
+Para@54.48 estar@54.56 do@54.82 outro@55.00 lado,@55.24
+você@55.68 não@55.92 precisa@56.08 ser@56.36 a@56.68 Netflix.@56.82
+Um@57.38 produto@57.54 pequeno,@57.78
+construído.@58.40
+Uma@59.14 vez,@59.30
+já@59.64 pode@59.78 ser@60.02 pago@60.18 todo@60.56 mês@60.76 por@61.00 quem@61.24 usa.@61.42
+Só@61.76 que@61.88 até@62.02 pouco@62.16 tempo@62.46 atrás,@62.76
+isso@63.30 exigia@63.50 uma@63.94 equipe@64.08 ou@64.52 muito@64.64 dinheiro@64.88 para@65.26 pagar@65.48 por@65.74 ela.@66.00
+Só@66.26 um@66.34 programador@66.50 custa,@67.08
+em@67.70 média,@67.90
+quase@68.32 6@68.54 mil@68.86 reais@69.16 por@69.38 mês.@69.66
+Hoje,@70.06
+essa@70.46 equipe@70.64 inteira@71.10 cabe@71.52 na@71.74 IA@71.96 que@72.14 já@72.28 está@72.46 no@72.68 seu@72.86 celular.@73.04
+Essa@73.64 é@73.86 a@74.20 camada.@74.26
+Ter@74.86 a@75.02 IA@75.18 como@75.40 sua@75.58 equipe@75.84 e@76.24 virar@76.44 o@76.76 dono@76.88 do@77.28 que@77.42 ela@77.52 constrói.@77.72
+Esse@78.44 é@78.80 o@78.94 Igor,@79.02
+meu@79.42 sócio.@79.56
+Ele@80.10 era@80.22 CLT,@80.48
+queria@81.04 trabalhar@81.22 de@81.66 casa@81.98 e@82.24 nunca@82.50 foi@82.72 programador.@83.02
+Junto@83.76 com@84.10 Emmanuel,@84.22
+nosso@84.78 outro@84.96 sócio,@85.32
+ele@85.96 construiu@86.10 com@86.64 IA@86.76 o@87.04 Salg,@87.24
+um@87.60 sistema@87.82 que@88.10 mostra@88.36 para@88.64 o@88.92 dono@88.96 de@89.22 um@89.30 negócio@89.36 digital@89.64 quanto@90.10 ele@90.48 lucra@90.74 de@91.08 verdade,@91.20
+venda@91.76 por@92.10 venda.@92.32
+Sem@92.78 IA,@93.02
+um@93.44 sistema@93.54 desse@93.86 exigiria@94.18 uma@95.06 equipe@95.22 inteira@95.56 de@96.02 programadores.@96.14
+O@96.90 Igor@96.96 só@97.14 dizia@97.32 para@97.72 a@97.84 IA@97.92 o@98.06 que@98.14 fazer.@98.26
+O@98.70 trabalho@98.74 pesado,@98.98
+quem@99.56 fazia@99.72 era@100.30 ela.@100.56
+Hoje,@101.02
+a@101.36 gente@101.50 está@101.76 do@102.02 outro@102.18 lado.@102.42
+Vende@102.88 o@103.16 Salg@103.26 por@103.52 assinatura@103.68 todo@104.38 mês.@104.62
+E@105.08 ele@105.16 é@105.40 nosso.@105.54
+A@105.94 gente@106.02 construiu@106.24 uma@106.92 vez@107.16 e@107.50 continua@107.66 dono@108.04 dele.@108.52
+Agora,@108.88
+se@109.34 isso@109.52 é@109.76 possível,@109.90
+por@110.52 que@110.62 tão@110.82 pouco@111.02 a@111.28 gente@111.42 faz?@111.60
+Eu@112.12 sei@112.24 a@112.46 resposta,@112.56
+porque@113.16 eu@113.44 passei@113.60 anos@113.96 do@114.12 lado@114.48 da@114.74 multidão.@114.88
+Com@115.38 14@115.44 anos,@115.80
+eu@116.42 fui@116.52 atrás@116.74 de@116.96 deitados,@117.26
+com@117.58 16@117.90 anos,@118.22
+dropshipping.@118.66
+Depois,@119.28
+qualquer@119.78 coisa@120.10 nova@120.44 que@120.82 aparecesse@121.08 prometendo@121.64 dinheiro@122.28 na@122.64 internet.@122.96
+Eu@123.54 vivia@123.62 com@124.00 os@124.12 olhos@124.24 no@124.50 mesmo@124.66 lugar@124.88 que@125.20 todo@125.44 mundo,@125.60
+no@126.00 que@126.08 estava@126.16 dando@126.48 dinheiro@126.76 naquele@127.16 momento.@127.68
+E@128.24 toda@128.30 vez@128.48 era@128.76 igual.@128.94
+Quando@129.32 eu@129.48 chegava@129.64 lá,@130.08
+milhares@130.48 de@130.86 pessoas@131.00 já@131.36 estavam@131.64 fazendo@131.90 a@132.30 mesma@132.50 coisa.@132.74
+Aí@133.24 aparecia@133.32 outra@133.82 novidade@134.08 e@134.66 eu@134.90 começava@135.04 de@135.50 novo@135.74 do@136.00 zero.@136.18
+Eu@136.52 achava@136.60 que@136.96 estava@137.06 evoluindo@137.24 porque@137.80 estava@138.06 sempre@138.32 aprendendo@138.72 coisa@139.32 nova,@139.50
+só@139.92 que@140.06 eu@140.20 acumulava@140.30 informação@140.80 e@141.10 nenhuma@141.62 me@141.90 dava@142.10 dinheiro.@142.32
+Eu@142.84 sabia@142.92 um@143.24 pouco@143.42 de@143.60 tudo@143.74 e@143.98 não@144.16 tinha@144.30 nada@144.56 que@144.88 fosse@145.10 meu.@145.34
+Foram@145.66 quatro@145.96 anos@146.16 assim.@146.56
+Perdendo@146.86 tempo@147.32 e@147.64 perdendo@147.82 dinheiro.@148.24
+Isso@148.72 tem@148.92 nome.@149.12
+Eu@149.48 chamo@149.54 de@149.94 armadilha@150.04 da@150.66 novidade.@150.80
+Sabe@151.38 aquela@151.60 armadilha@151.78 de@152.40 passarinho?@152.52
+A@153.20 comida@153.26 fica@153.50 embaixo.@153.76
+O@154.36 passarinho@154.44 entra@154.94 pra@155.24 comer@155.46 e@155.74 fica@155.88 preso.@156.08
+Na@156.60 internet,@156.70
+a@157.32 comida@157.48 é@157.78 a@158.16 novidade.@158.24
+E@158.88 com@158.98 a@159.16 IA,@159.32
+essa@159.62 armadilha@159.80 é@160.48 ainda@160.64 pior.@160.84
+Toda@161.40 semana@161.58 aparece@161.90 uma@162.40 ferramenta@162.76 nova.@163.28
+Você@163.70 aprende@163.88 uma,@164.32
+sai@164.56 outra.@164.78
+E@165.22 o@165.34 que@165.42 você@165.50 aprendeu@165.72 fica@166.24 velho.@166.38
+Quem@166.94 armou@167.08 essa@167.48 armadilha@167.70 foi@168.34 quem@168.52 vive@168.76 de@169.02 te@169.22 mostrar@169.30 o@169.78 que@169.98 é@170.10 novo.@170.14
+Essa@170.50 gente@170.64 ganha@170.88 dinheiro@171.32 com@171.60 o@171.84 tempo@171.94 que@172.24 você@172.36 passa@172.58 assistindo.@172.88
+Você@173.66 não.@173.98
+Então,@174.60
+pra@175.00 eles,@175.10
+o@175.56 melhor@175.68 é@175.94 você@176.12 nunca@176.28 continuar@176.62 assistindo.@176.84
+Não@176.84 construir@177.02 nada@177.02 e@177.44 voltar@177.74 todo@178.06 dia@178.56 atrás@178.92 da@179.36 próxima@179.70 novidade.@180.12
+Talvez@181.06 você@181.42 nunca@181.64 tenha@181.92 nem@182.20 começado.@182.44
+Ou@183.12 começou,@183.30
+se@183.84 empolgou@183.92 na@184.34 primeira@184.46 semana@184.72 e@185.16 parou.@185.42
+E@185.88 sobrou@185.98 aquela@186.40 voz@186.56 dizendo@186.96 que@187.30 o@187.60 problema@187.66 era@188.04 você.@188.46
+Não@189.02 era.@189.22
+Você@189.56 estava@189.80 sozinho.@190.10
+Com@190.70 o@190.88 vídeo@190.98 feito@191.16 pra@191.54 você@191.76 assistir.@192.10
+Não@192.72 pra@192.86 você@192.98 construir.@193.24
+Assim,@194.00
+quase@194.32 ninguém@194.52 começa.@194.80
+E@195.40 quem@195.46 começa@195.62 quase@196.00 nunca@196.30 chega@196.62 ao@197.00 fim.@197.14
+E@197.46 você@197.56 deve@197.76 ter@198.04 visto@198.22 muito@198.54 vídeo@198.86 de@199.22 Ganhe@199.48 dinheiro@199.90 com@200.18 IA@200.48 Mostrando@200.76 carro@201.40 e@201.70 print@202.00 de@202.24 faturamento.@202.40
+E@203.10 nunca@203.30 mostrando@203.58 como@204.12 chegar@204.48 lá.@204.80
+Você@205.22 estava@205.54 num@205.88 jogo@206.10 feito.@206.30
+Pra@206.74 você@206.94 nunca@207.18 sair@207.66 do@208.12 lugar.@208.42
+Mas@208.86 agora,@209.02
+você@209.46 sabe@209.68 disso.@210.02
+E@210.46 daqui@210.56 pra@210.72 frente,@210.92
+continuar@211.38 igual@211.82 é@212.10 escolha@212.40 sua.@212.88
+A@213.32 minha@213.42 vida@213.60 só@213.98 mudou@214.18 quando@214.54 eu@214.74 fiz@214.90 o@215.08 contrário.@215.22
+Parei@215.82 de@216.14 pular@216.24 de@216.46 galho@216.66 em@216.92 galho.@216.98
+E@217.30 fui@217.42 olhar@217.56 pra@217.92 onde@218.20 a@218.44 maioria@218.62 não@218.92 estava@219.34 olhando.@219.70
+Foi@220.30 aí@220.48 que@220.74 eu@220.84 entendi.@220.92
+A@221.42 informação@221.52 que@221.86 todo@222.38 mundo@222.64 tem@222.90 não@223.22 dá@223.54 dinheiro@223.80 pra@224.14 ninguém.@224.48
+O@224.94 que@225.02 dá@225.14 dinheiro@225.32 é@225.72 a@226.02 que@226.10 pouca@226.24 gente@226.62 percebeu.@226.82
+E@227.56 o@227.64 meu@227.70 resultado@227.84 também@228.22 deixou@228.62 de@229.24 ser@229.38 o@229.58 da@229.70 multidão.@229.82
+É@230.48 isso@230.58 que@230.78 acontece@230.94 com@231.30 quem@231.62 entende@231.82 o@232.26 jogo@232.34 de@232.58 verdade.@232.76
+E@233.32 com@233.44 a@233.58 IA,@233.72
+a@234.00 história@234.14 se@234.52 repete.@234.84
+Todo@235.34 mundo@235.60 olhando@235.84 pra@236.28 ela.@236.42
+E@236.76 só@236.82 um@236.92 grupo@237.06 pequeno@237.28 vendo@237.82 o@238.12 que@238.30 dá@238.46 pra@238.60 construir@238.78 com@239.24 ela.@239.50
+Hoje,@239.90
+os@240.26 meus@240.50 olhos@240.70 estão@241.08 num@241.42 lugar@241.62 só.@241.94
+Construir@242.74 com@243.18 IA.@243.42
+É@243.86 disso@244.00 que@244.20 a@244.46 gente@244.60 vive.@244.78

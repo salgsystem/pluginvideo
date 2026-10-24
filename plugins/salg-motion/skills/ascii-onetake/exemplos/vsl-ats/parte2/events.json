@@ -1,0 +1,819 @@
+[
+ {
+  "t": 0.25,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "feedx"
+ },
+ {
+  "t": 3.55,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "path3"
+ },
+ {
+  "t": 5.95,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "obra"
+ },
+ {
+  "t": 8.7,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "access"
+ },
+ {
+  "t": 10.05,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "order"
+ },
+ {
+  "t": 14.7,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "arch"
+ },
+ {
+  "t": 16.6,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "notbrick"
+ },
+ {
+  "t": 18,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "draw"
+ },
+ {
+  "t": 21.5,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "iateam"
+ },
+ {
+  "t": 24.35,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "fast"
+ },
+ {
+  "t": 27.55,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "which"
+ },
+ {
+  "t": 30.6,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "choose"
+ },
+ {
+  "t": 36.10000000000001,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "worth"
+ },
+ {
+  "t": 39.2,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "hidden"
+ },
+ {
+  "t": 41.15,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "inout"
+ },
+ {
+  "t": 47.85,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "split"
+ },
+ {
+  "t": 53.2,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "grow"
+ },
+ {
+  "t": 54.75,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "outside"
+ },
+ {
+  "t": 57.4,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "coder"
+ },
+ {
+  "t": 60.25,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "notcoder"
+ },
+ {
+  "t": 61.6,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "see"
+ },
+ {
+  "t": 65,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "adv"
+ },
+ {
+  "t": 67.65,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "still"
+ },
+ {
+  "t": 71.3,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "headpocket"
+ },
+ {
+  "t": 80.60000000000001,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "scale"
+ },
+ {
+  "t": 92.4,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "launch"
+ },
+ {
+  "t": 97.3,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "guarantee"
+ },
+ {
+  "t": 101.35,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "title"
+ },
+ {
+  "t": 104.45,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "d7"
+ },
+ {
+  "t": 107.9,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "zero"
+ },
+ {
+  "t": 112.55,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "choose3"
+ },
+ {
+  "t": 116.3,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "scroll2"
+ },
+ {
+  "t": 120.55,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "h180"
+ },
+ {
+  "t": 125,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "vs14"
+ },
+ {
+  "t": 130.35,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "yours"
+ },
+ {
+  "t": 133,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "phone0"
+ },
+ {
+  "t": 139.14999999999998,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "vphone"
+ },
+ {
+  "t": 150.5,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "min43"
+ },
+ {
+  "t": 156.2,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "simple"
+ },
+ {
+  "t": 162.1,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "money"
+ },
+ {
+  "t": 167.55,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "howto"
+ },
+ {
+  "t": 172.8,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "tracks"
+ },
+ {
+  "t": 181.95,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "lesson"
+ },
+ {
+  "t": 187,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "done"
+ },
+ {
+  "t": 190.15,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "forever"
+ },
+ {
+  "t": 193.9,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "newclass"
+ },
+ {
+  "t": 198.2,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "focus"
+ },
+ {
+  "t": 200.5,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "free"
+ },
+ {
+  "t": 203.25,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "feedpocket"
+ },
+ {
+  "t": 207.5,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "missing"
+ },
+ {
+  "t": 210.8,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "alone3"
+ },
+ {
+  "t": 215.1,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "cross"
+ },
+ {
+  "t": 217.4,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "login"
+ },
+ {
+  "t": 224.8,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "answer"
+ },
+ {
+  "t": 235.04999999999998,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "group"
+ },
+ {
+  "t": 243.55,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "live"
+ },
+ {
+  "t": 247.1,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "env"
+ },
+ {
+  "t": 259.75,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "years"
+ },
+ {
+  "t": 265.2,
+  "kind": "morph",
+  "d": 1.24,
+  "shape": "center"
+ },
+ {
+  "t": 4.36,
+  "kind": "pop"
+ },
+ {
+  "t": 5.06,
+  "kind": "pop"
+ },
+ {
+  "t": 5.6,
+  "kind": "pop"
+ },
+ {
+  "t": 6.95,
+  "kind": "pop"
+ },
+ {
+  "t": 7.11,
+  "kind": "pop"
+ },
+ {
+  "t": 7.2700000000000005,
+  "kind": "pop"
+ },
+ {
+  "t": 7.43,
+  "kind": "pop"
+ },
+ {
+  "t": 7.59,
+  "kind": "pop"
+ },
+ {
+  "t": 8.2,
+  "kind": "pop"
+ },
+ {
+  "t": 10.45,
+  "kind": "pop"
+ },
+ {
+  "t": 12.6,
+  "kind": "pop"
+ },
+ {
+  "t": 14,
+  "kind": "pop"
+ },
+ {
+  "t": 15.45,
+  "kind": "pop"
+ },
+ {
+  "t": 17.45,
+  "kind": "pop"
+ },
+ {
+  "t": 19.8,
+  "kind": "pop"
+ },
+ {
+  "t": 20.55,
+  "kind": "pop"
+ },
+ {
+  "t": 20.75,
+  "kind": "pop"
+ },
+ {
+  "t": 21.8,
+  "kind": "pop"
+ },
+ {
+  "t": 23.4,
+  "kind": "pop"
+ },
+ {
+  "t": 23.599999999999998,
+  "kind": "pop"
+ },
+ {
+  "t": 23.799999999999997,
+  "kind": "pop"
+ },
+ {
+  "t": 24.5,
+  "kind": "pop"
+ },
+ {
+  "t": 24.62,
+  "kind": "pop"
+ },
+ {
+  "t": 24.8,
+  "kind": "pop"
+ },
+ {
+  "t": 25.02,
+  "kind": "pop"
+ },
+ {
+  "t": 25.259999999999998,
+  "kind": "pop"
+ },
+ {
+  "t": 25.38,
+  "kind": "pop"
+ },
+ {
+  "t": 25.5,
+  "kind": "pop"
+ },
+ {
+  "t": 25.74,
+  "kind": "pop"
+ },
+ {
+  "t": 25.86,
+  "kind": "pop"
+ },
+ {
+  "t": 26.099999999999998,
+  "kind": "pop"
+ },
+ {
+  "t": 26.22,
+  "kind": "pop"
+ },
+ {
+  "t": 26.34,
+  "kind": "pop"
+ },
+ {
+  "t": 26.58,
+  "kind": "pop"
+ },
+ {
+  "t": 28.5,
+  "kind": "pop"
+ },
+ {
+  "t": 28.7,
+  "kind": "pop"
+ },
+ {
+  "t": 28.9,
+  "kind": "pop"
+ },
+ {
+  "t": 36.7,
+  "kind": "pop"
+ },
+ {
+  "t": 36.86,
+  "kind": "pop"
+ },
+ {
+  "t": 37.02,
+  "kind": "pop"
+ },
+ {
+  "t": 37.75,
+  "kind": "pop"
+ },
+ {
+  "t": 44.4,
+  "kind": "pop"
+ },
+ {
+  "t": 44.6,
+  "kind": "pop"
+ },
+ {
+  "t": 44.85,
+  "kind": "pop"
+ },
+ {
+  "t": 45.1,
+  "kind": "pop"
+ },
+ {
+  "t": 55.4,
+  "kind": "pop"
+ },
+ {
+  "t": 55.75,
+  "kind": "pop"
+ },
+ {
+  "t": 56.1,
+  "kind": "pop"
+ },
+ {
+  "t": 56.449999999999996,
+  "kind": "pop"
+ },
+ {
+  "t": 57.9,
+  "kind": "pop"
+ },
+ {
+  "t": 61,
+  "kind": "pop"
+ },
+ {
+  "t": 62.9,
+  "kind": "pop"
+ },
+ {
+  "t": 72.9,
+  "kind": "pop"
+ },
+ {
+  "t": 82.2,
+  "kind": "pop"
+ },
+ {
+  "t": 84.6,
+  "kind": "pop"
+ },
+ {
+  "t": 84.75,
+  "kind": "pop"
+ },
+ {
+  "t": 84.89999999999999,
+  "kind": "pop"
+ },
+ {
+  "t": 85.05,
+  "kind": "pop"
+ },
+ {
+  "t": 95.7,
+  "kind": "pop"
+ },
+ {
+  "t": 97.5,
+  "kind": "pop"
+ },
+ {
+  "t": 99.5,
+  "kind": "pop"
+ },
+ {
+  "t": 104.7,
+  "kind": "pop"
+ },
+ {
+  "t": 117.2,
+  "kind": "pop"
+ },
+ {
+  "t": 123.45,
+  "kind": "pop"
+ },
+ {
+  "t": 132.6,
+  "kind": "pop"
+ },
+ {
+  "t": 134,
+  "kind": "pop"
+ },
+ {
+  "t": 134.12,
+  "kind": "pop"
+ },
+ {
+  "t": 134.24,
+  "kind": "pop"
+ },
+ {
+  "t": 134.36,
+  "kind": "pop"
+ },
+ {
+  "t": 153.2,
+  "kind": "pop"
+ },
+ {
+  "t": 154.2,
+  "kind": "pop"
+ },
+ {
+  "t": 157,
+  "kind": "pop"
+ },
+ {
+  "t": 157.6,
+  "kind": "pop"
+ },
+ {
+  "t": 158.2,
+  "kind": "pop"
+ },
+ {
+  "t": 163.8,
+  "kind": "pop"
+ },
+ {
+  "t": 167.7,
+  "kind": "pop"
+ },
+ {
+  "t": 169.1,
+  "kind": "pop"
+ },
+ {
+  "t": 169.3,
+  "kind": "pop"
+ },
+ {
+  "t": 170.1,
+  "kind": "pop"
+ },
+ {
+  "t": 186.4,
+  "kind": "pop"
+ },
+ {
+  "t": 189.6,
+  "kind": "pop"
+ },
+ {
+  "t": 199.6,
+  "kind": "pop"
+ },
+ {
+  "t": 203.6,
+  "kind": "pop"
+ },
+ {
+  "t": 207.6,
+  "kind": "pop"
+ },
+ {
+  "t": 207.75,
+  "kind": "pop"
+ },
+ {
+  "t": 207.9,
+  "kind": "pop"
+ },
+ {
+  "t": 208.6,
+  "kind": "pop"
+ },
+ {
+  "t": 217.6,
+  "kind": "pop"
+ },
+ {
+  "t": 218.6,
+  "kind": "pop"
+ },
+ {
+  "t": 223.1,
+  "kind": "pop"
+ },
+ {
+  "t": 225,
+  "kind": "pop"
+ },
+ {
+  "t": 227.6,
+  "kind": "pop"
+ },
+ {
+  "t": 254.9,
+  "kind": "pop"
+ },
+ {
+  "t": 255.06,
+  "kind": "pop"
+ },
+ {
+  "t": 255.22,
+  "kind": "pop"
+ },
+ {
+  "t": 255.38,
+  "kind": "pop"
+ },
+ {
+  "t": 255.54,
+  "kind": "pop"
+ },
+ {
+  "t": 265.4,
+  "kind": "pop"
+ },
+ {
+  "t": 265.52,
+  "kind": "pop"
+ },
+ {
+  "t": 265.64,
+  "kind": "pop"
+ },
+ {
+  "t": 24.9,
+  "kind": "knocks",
+  "n": 6,
+  "step": 0.22
+ },
+ {
+  "t": 31.76,
+  "kind": "chime"
+ },
+ {
+  "t": 85.4,
+  "kind": "thud"
+ },
+ {
+  "t": 96.05,
+  "kind": "wave",
+  "d": 1.4
+ },
+ {
+  "t": 96.1,
+  "kind": "impact"
+ },
+ {
+  "t": 102.5,
+  "kind": "impact"
+ },
+ {
+  "t": 103.6,
+  "kind": "bloom"
+ },
+ {
+  "t": 123.5,
+  "kind": "impact"
+ },
+ {
+  "t": 150.95,
+  "kind": "impact"
+ },
+ {
+  "t": 236.4,
+  "kind": "pop"
+ },
+ {
+  "t": 237.9,
+  "kind": "pop"
+ },
+ {
+  "t": 239.5,
+  "kind": "pop"
+ },
+ {
+  "t": 241.1,
+  "kind": "pop"
+ },
+ {
+  "t": 242.6,
+  "kind": "pop"
+ },
+ {
+  "t": 268.35,
+  "kind": "bloom"
+ }
+]

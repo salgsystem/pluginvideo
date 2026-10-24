@@ -9,5 +9,5 @@ Feche o reel com estes argumentos: `$ARGUMENTS`
 2. Em `<reel>/referencias/`, gere a prancha de quadros-chave do vídeo final (15–20 instantes, 360 px cada, 5 colunas, com o tempo escrito) e 4–6 quadros em tamanho real dos momentos mais importantes.
 3. Apague `<reel>/projeto/frames/` e `<reel>/projeto/stills/` (são regeneráveis; ~4 GB).
 4. Atualize `<reel>/LEIA-ME.md`: versão postada, data, o que tem em cada pasta.
-5. Registre no histórico (`GUIA-DE-ESTILO.md` §13 da pasta-mãe, se existir) o que mudou em cada versão e o que foi aprovado.
-6. Se o reel trouxe formas ou regras novas que valem para os próximos, proponha ao usuário levá-las para o modelo (`motor/comp_realista.js` da skill) e para o guia.
+5. Registre no histórico (`DOC-ESTILO.md` §19 da pasta-mãe, se existir) o que mudou em cada versão e o que foi aprovado ou rejeitado.
+6. Se o filme trouxe formas, overlays ou regras novas que valem para os próximos, proponha ao usuário levá-las para o plugin: `motor-campo-vivo/comum.js` (ou `motor/comp_realista.js` nos reels realistas), o `references/DOC-ESTILO.md` e o exemplo.

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Hook C · ASCII onetake</title>
+<style>
+  @font-face { font-family: 'JetBrains Mono'; font-weight: 400; src: url(fonts/mono-400.ttf); }
+  @font-face { font-family: 'JetBrains Mono'; font-weight: 700; src: url(fonts/mono-700.ttf); }
+  @font-face { font-family: 'Inter'; font-weight: 300; src: url(fonts/inter-300.ttf); }
+  @font-face { font-family: 'Inter'; font-weight: 400; src: url(fonts/inter-400.ttf); }
+  @font-face { font-family: 'Inter'; font-weight: 700; src: url(fonts/inter-700.ttf); }
+  @font-face { font-family: 'Instrument Serif'; font-style: italic; src: url(fonts/serif-italic.ttf); }
+  html, body { margin: 0; background: #000; height: 100%; }
+  body { display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 10px;
+         font: 13px 'JetBrains Mono', monospace; color: #888; }
+  canvas { height: calc(100vh - 60px); aspect-ratio: 9 / 16; background: #050506; }
+  #bar { display: flex; gap: 12px; align-items: center; }
+  #bar input[type=range] { width: 50vh; }
+  body.render #bar { display: none; }
+  body.render canvas { height: auto; width: 1080px; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="bar">
+  <button id="pp">▶ play</button>
+  <input id="sc" type="range" min="0" max="47.5" step="0.0333" value="0">
+  <span id="tc">0.00</span>
+</div>
+<audio id="vo" src="vo.wav" preload="auto"></audio>
+<script src="words.js"></script>
+<script src="comp.js"></script>
+<script src="../../comum.js"></script>

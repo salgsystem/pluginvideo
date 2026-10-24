@@ -1,30 +1,48 @@
 ---
 name: landing-campo-ascii
-description: "Cria ou revisa landing pages no estilo visual dos vídeos ASCII onetake da Salg — fundo preto quente #050506, um 'Campo ASCII' em canvas que se transforma no símbolo de cada seção ao rolar, cor só com significado (ouro dinheiro, roxo IA, azul social, laranja ação, vermelho perda), selo de seção que decodifica, headline palavra por palavra, mono caixa alta nos rótulos. Use quando pedirem landing page, página de vendas, site, hero ou componentes 'no estilo dos vídeos', 'no estilo ASCII', 'no estilo da VSL' ou 'do reel'."
+description: "Cria ou revisa landing pages no estilo 'Campo Vivo' dos vídeos da Salg/ATS: fundo preto quente #050506, um Campo ASCII limpo (grade exata, 6 tons) em canvas que funde para o símbolo de cada seção ao rolar, cor só com significado e sem amarelo (valor e oferta verdes, dono azul, construção laranja Claude), prints reais do produto com granulado, selo de seção que decodifica, headline palavra por palavra e mono caixa alta nos rótulos. Use quando pedirem landing page, página de vendas, site, hero ou componentes 'no estilo dos vídeos', 'no estilo ASCII', 'no estilo da VSL' ou 'do reel'."
 ---
 
-# Landing page no estilo "Campo ASCII"
+# Landing page no estilo "Campo Vivo"
 
-A página é o vídeo traduzido para a rolagem: **cada seção é um beat**, com um símbolo do Campo ASCII que conta a ideia sozinho; a transição entre seções **carrega** algo da anterior; há pelo menos um **respiro**; o **estouro ouro + verde** só aparece na oferta.
+A página é o filme traduzido para a rolagem. **Cada seção é uma cena**, com um símbolo do campo ASCII que conta a ideia sozinho, e a troca de seção é uma **fusão no lugar**. Há pelo menos um **respiro**, e o **verde de oferta** só aparece na oferta.
 
 Nesta skill:
-- `references/DOC-LANDING-PAGE-ESTILO.md`: **a especificação completa** (leia antes de escrever qualquer coisa): regras, tabela vídeo → web, tokens de cor e texto, glow por seção, tipografia com `clamp()`, grade e espaçamento, as 6 camadas do fundo, o Campo ASCII, todos os componentes com medidas, curvas e durações, marcação de palavras-chave, ilustração, estrutura de página em beats, acessibilidade, performance e checklist.
-- `campo-ascii.js`: o módulo do Campo ASCII (`createField(canvas, { N, cell })` → `{ imgPts, setShape, stop }`), sem dependências.
-- `base.css`: tokens e estilos base (fundo, glow, vinheta, grão, selo, cantoneiras, headline cinética, botões, cards, movimento reduzido).
-- Fontes: `../ascii-onetake/motor/fonts/` (Inter 300/400/700, JetBrains Mono 400/700, Instrument Serif itálico; todas OFL).
-- Referência visual: `../ascii-onetake/exemplos/confeiteira/*.png`.
+- **A especificação** é o `../ascii-onetake/references/DOC-ESTILO.md`. Leia a Parte A (o estilo, §1–§8) e a Parte D (§18: equivalências, tokens CSS, campo na web, componentes, estrutura da página, acessibilidade).
+- `campo-ascii.js`: o módulo do campo, sem dependências, já na **leitura limpa**. A API é `createField(canvas, { N, cellPx })`, que devolve `{ imgPts(desenho, { tint }), setShape(pts, { d, st, fly }), stop }`.
+  - Rampa `' .:=+#@'`, 6 níveis, atlas de 32 px.
+  - Fusão por padrão; `fly: true` só quando o voo é a ideia.
+  - O matiz do desenho cai em roxo, azul, laranja, verde ou vermelho. Ouro, dono, Claude, WhatsApp e marrom entram por `{ tint: n }`.
+- `base.css`: tokens (com `--valor`, `--dono`, `--claude`, `--whats`) e estilos base: fundo, brilho, vinheta, grão a 0,02, selo, cantoneiras, headline cinética, botões (oferta verde), cards, placa e lettering.
+- `references/antigos/DOC-LANDING-PAGE-ESTILO.md`: a especificação antiga (com ouro). É histórico; o que vale é o DOC-ESTILO §18.
+- Fontes: `../ascii-onetake/motor/fonts/` (Inter, JetBrains Mono, Instrument Serif; todas OFL).
+- Referência visual: `../ascii-onetake/exemplos/vsl-ats/vsl-v4-quadros-chave.jpg`.
 
 ## Protocolo
-1. Leia `references/DOC-LANDING-PAGE-ESTILO.md` inteiro.
-2. Monte a estrutura em beats (DOC §12): para cada seção, o selo `NN · NOME`, o símbolo do campo, a cor e o que carrega para a próxima. Copy real do produto; nunca invente prova, número ou depoimento.
-3. Comece de `base.css` + `campo-ascii.js`. O campo fica fixo atrás do conteúdo; cada `<section data-shape data-glow>` troca a forma quando 55% dela está visível.
-4. Desenhe os símbolos como **ilustrações sombreadas** (DOC §11) e leia-os com `field.imgPts(desenho)`. Para objetos já prontos (bolo, celular, lojinha, etiqueta, ingredientes, blocos iso, roleta), copie as funções de desenho de `../ascii-onetake/motor/comp_realista.js`.
-5. Garanta `prefers-reduced-motion`, canvas `aria-hidden`, todo o conteúdo em HTML real, contraste do corpo ≥ `#CDCDD3`, campo ≤ 8 ms por quadro em mobile (N 2.500–4.500 em mobile, 5.000–12.000 em desktop).
-6. Verifique no navegador em 375, 768 e 1440 px antes de entregar e passe o checklist (DOC §16).
+1. Leia o DOC-ESTILO §1–§8 e §18.
+2. Monte a estrutura em cenas (§18.5). Para cada seção, defina:
+   - o selo `NN · NOME`;
+   - o símbolo do campo;
+   - a mídia real;
+   - a cor;
+   - o que continua para a próxima.
+
+   Use a copy real do produto. Nunca invente prova, número ou depoimento.
+3. Comece de `base.css` + `campo-ascii.js`. O campo fica fixo atrás do conteúdo, e cada `<section data-shape data-glow>` funde para a forma nova quando 55% dela está visível.
+4. Desenhe os símbolos como **ilustração em cor chapada** (DOC §3.2: lateral mais escura, tudo opaco, nada encostado na borda) e leia-os com `field.imgPts(desenho)`. Os prints do produto entram como imagem real em card com leve perspectiva e granulado, nunca redesenhados.
+5. Garanta:
+   - `prefers-reduced-motion`;
+   - canvas com `aria-hidden` e todo o conteúdo em HTML real;
+   - contraste do corpo ≥ `#CDCDD3`;
+   - agentes: 2.500–4.500 em mobile e 8.000–12.000 em desktop;
+   - ≤ 16 ms por quadro.
+6. Verifique no navegador em 375, 768 e 1440 px antes de entregar.
 
 ## Regras que mais quebram
 - Fundo `#000` (errado) em vez de `#050506`.
-- Cor como enfeite; vermelho em botão; ouro espalhado pela página inteira (o final perde o peso).
+- **Amarelo/ouro no botão ou no dinheiro:** a oferta é verde e o ouro é só tesouro.
+- Cor como enfeite ou botão vermelho.
+- Mockup genérico no lugar do print real; depoimento inventado.
 - Parágrafo em mono, ou mono sem caixa alta e sem tracking largo.
 - Campo ASCII ocupando a tela toda (o símbolo deve ficar em 40–60% da largura).
-- Transições que "trocam slide" em vez de transformar.
+- Transições que "trocam slide" ou caracteres embaralhando em trânsito.

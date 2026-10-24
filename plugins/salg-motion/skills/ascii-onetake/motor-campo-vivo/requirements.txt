@@ -1,0 +1,9 @@
+# Versões exatas usadas em todos os filmes (medidas em 20/10/2026, Windows 11 Pro, Python 3.14.7)
+faster-whisper==1.2.1
+ctranslate2==4.8.3
+playwright==1.64.0
+numpy==2.5.4
+scipy==1.18.1
+pillow==12.3.0
+rembg==2.0.85
+onnxruntime==1.31.0

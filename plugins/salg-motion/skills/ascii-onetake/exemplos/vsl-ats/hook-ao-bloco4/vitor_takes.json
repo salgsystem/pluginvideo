@@ -1,0 +1,101 @@
+[
+ {
+  "take": "take 1 _quanto dinheiro a mais..._",
+  "off": -0.01,
+  "janela": [
+   0,
+   3.9
+  ],
+  "conf": 0.51
+ },
+ {
+  "take": "take 2 _e fazer o que todo mundo faz..._",
+  "off": 13.57,
+  "janela": [
+   15.8,
+   20.1
+  ],
+  "conf": 0.5
+ },
+ {
+  "take": "take 3 _agora inverte a pergunta..._",
+  "off": 34.68,
+  "janela": [
+   35.6,
+   41.45
+  ],
+  "conf": 0.53
+ },
+ {
+  "take": "take 4 _e até hj vc esteve do lado de quem paga_.mp4",
+  "off": 51.18,
+  "janela": [
+   51.75,
+   54.4
+  ],
+  "conf": 0.5
+ },
+ {
+  "take": "take 5 _essa é a camada..._",
+  "off": 72.04,
+  "janela": [
+   73.6,
+   78.35
+  ],
+  "conf": 0.55
+ },
+ {
+  "take": "take 6 _o Igor só dizia pra IA oq fazer..._",
+  "off": 95.62,
+  "janela": [
+   96.85,
+   100.95
+  ],
+  "conf": 0.55
+ },
+ {
+  "take": "take 7 _eu sei a resposta porque eu passei anos..._",
+  "off": 111.03,
+  "janela": [
+   112.05,
+   115.35
+  ],
+  "conf": 0.51
+ },
+ {
+  "take": "take 8 _foram 4 anos assim, perdendo tempo..._",
+  "off": 145.1,
+  "janela": [
+   145.62,
+   151.32
+  ],
+  "conf": 0.61
+ },
+ {
+  "take": "take 9 _não era_.mp4",
+  "off": 188.38,
+  "janela": [
+   188.95,
+   189.5
+  ],
+  "conf": 0.56
+ },
+ {
+  "take": "take 10 _mas agora vc sabe disso..._",
+  "off": 208.08,
+  "janela": [
+   208.8,
+   213.28
+  ],
+  "conf": 0.55
+ },
+ {
+  "take": "take 11 _hoje, os meus olhos estão..._",
+  "off": 239.83,
+  "janela": [
+   239.85,
+   null
+  ],
+  "conf": 0.65
+ }
+]

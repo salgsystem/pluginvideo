@@ -1,0 +1,153 @@
+Duração total: 270.62 s  ·  871 palavras
+
+E@0.00 construir@0.30 exige@0.78 uma@1.58 coisa@1.76 que@2.10 o@2.32 FID@2.36 nunca@2.64 te@3.00 dá.@3.34
+Um@3.66 caminho@3.70 com@4.12 começo,@4.36
+meio@5.06 e@5.38 fim.@5.60
+Imagina@6.04 uma@6.46 obra,@6.60
+tijolo,@7.04
+cimento@7.66 e@8.14 pedreiro.@8.24
+Qualquer@8.78 um@9.08 tem@9.28 acesso.@9.48
+O@10.10 que@10.16 faz@10.30 a@10.60 casa@10.78 ficar@11.00 de@11.28 pé@11.58 é@11.78 decidir@11.94 o@12.50 que@12.58 vai@12.66 em@12.86 cada@13.00 lugar@13.18 e@13.58 em@13.88 que@14.14 ordem.@14.32
+Esse@14.80 alguém@15.02 é@15.32 o@15.68 arquiteto.@15.76
+Ele@16.68 não@16.88 assenta@17.06 tijolo.@17.50
+Ele@18.06 desenha@18.20 a@18.74 casa@18.80 antes@19.18 dela@19.56 existir@19.88 e@20.42 dirige@20.54 a@21.00 obra.@21.08
+Com@21.54 a@21.64 IA@21.80 é@22.02 igual.@22.32
+A@22.78 IA@22.86 é@23.16 sua@23.40 equipe@23.56 de@23.94 obra.@24.06
+Trabalha@24.42 mais@24.86 rápido@24.98 que@25.36 qualquer@25.56 outra@25.78 e@26.22 constrói@26.38 o@26.88 que@27.00 você@27.12 mandar.@27.32
+Só@27.62 que@27.86 equipe@28.12 nenhuma@28.48 escolhe@28.70 qual@29.36 casa@29.50 construir.@29.86
+Quem@30.68 escolhe@30.80 é@31.46 o@31.62 arquiteto.@31.76
+E@32.64 pra@32.80 ser@32.94 arquiteto,@33.18
+você@34.10 não@34.38 precisa@34.58 ser@34.84 experto@35.14 em@35.76 tecnologia.@35.92
+Precisa@36.62 saber@36.92 o@37.28 que@37.66 vale@37.70 a@38.06 pena@38.20 construir.@38.48
+E@39.26 isso@39.34 quase@39.60 ninguém@39.92 te@40.24 mostra.@40.58
+Enquanto@41.22 a@41.66 multidão@41.80 briga@42.22 pelo@42.52 mesmo@42.68 dinheiro@43.04 dentro@43.44 do@43.76 FID,@44.06
+tem@44.44 dinheiro@44.58 do@44.96 lado@45.14 de@45.38 fora@45.56 com@45.88 muita@46.16 pouca@46.58 gente@47.04 olhando.@47.30
+No@47.90 FID,@48.06
+milhões@48.50 de@48.84 pessoas@49.14 fazem@49.42 a@49.88 mesma@50.02 coisa@50.26 ao@50.66 mesmo@50.88 tempo@51.10 e@51.48 sobra@51.72 pouco@52.06 pra@52.34 cada@52.58 uma.@52.88
+E@53.28 essa@53.34 multidão@53.52 só@54.12 cresce.@54.32
+Do@54.80 lado@54.90 de@55.16 fora,@55.38
+quase@55.82 ninguém@56.10 tá@56.42 construindo.@56.74
+Porque@57.44 a@57.66 maioria@57.82 ainda@58.10 acha@58.44 que@58.84 isso@58.96 é@59.10 coisa@59.20 de@59.44 programador.@59.64
+E@60.32 você@60.40 já@60.60 viu@60.90 que@61.12 não@61.24 é.@61.42
+A@61.66 partir@61.74 de@62.06 agora,@62.28
+você@62.66 enxerga@62.88 o@63.52 que@63.58 a@63.74 multidão@63.82 não@64.34 enxerga.@64.48
+E@65.08 isso@65.14 é@65.36 uma@65.50 vantagem@65.64 enorme.@66.34
+Mas@66.88 só@67.04 se@67.24 você@67.44 agir.@67.68
+Quem@68.20 só@68.32 enxerga@68.52 e@69.04 não@69.12 faz@69.22 nada,@69.46
+continua@69.96 igual@70.28 a@70.60 multidão.@70.84
+Com@71.36 a@71.48 informação@71.56 na@72.00 cabeça@72.32 e@72.64 o@72.98 bolso@73.06 do@73.50 mesmo@73.64 jeito.@73.88
+Agora,@74.48
+eu@75.00 vou@75.12 ser@75.28 direto@75.46 com@75.90 você.@76.04
+Porque@76.50 você@76.68 chegou@76.92 até@77.26 aqui@77.48 e@77.78 merece@78.00 isso.@78.44
+Eu@78.76 vou@78.88 te@79.10 oferecer@79.26 um@79.82 treinamento@80.00 sim.@80.60
+Só@81.04 que@81.20 antes@81.30 de@81.54 te@81.78 falar@81.86 do@82.14 preço,@82.32
+eu@82.76 quero@82.84 que@83.06 você@83.16 entenda@83.36 porque,@83.84
+nesse@84.36 negócio,@84.68
+quem@85.32 sai@85.46 ganhando@85.72 muito@86.18 mais,@86.50
+é@86.90 você.@87.04
+Pra@87.68 começar,@87.86
+eu@88.48 não@88.58 vou@88.76 te@88.98 prometer@89.16 dinheiro.@89.54
+Dinheiro@90.16 é@90.60 consequência@90.84 do@91.60 que@91.74 você@91.86 constrói.@92.18
+Então,@92.92
+eu@93.30 te@93.50 prometo@93.60 o@94.14 que@94.20 vem@94.28 antes.@94.44
+Um@94.98 projeto@95.08 seu@95.48 no@95.82 ar@96.08 em@96.28 7@96.54 dias.@96.82
+E@97.34 se@97.48 ele@97.60 não@97.76 estiver@97.90 no@98.22 ar@98.56 em@98.72 7@98.84 dias,@99.04
+eu@99.62 te@99.74 devolvo@99.84 o@100.44 que@100.52 você@100.62 pagou.@100.86
+O@101.40 treinamento@101.46 se@102.04 chama@102.24 Arquitetos@102.52 da@103.52 Singularidade.@103.60
+E@104.50 ele@104.58 começa@104.74 pelo@105.08 Arquiteto@105.40 7D.@106.18
+O@106.78 seu@106.84 primeiro@107.00 passo.@107.34
+Nele,@107.94
+começando@108.32 do@108.88 zero,@109.10
+você@109.52 constrói@109.76 o@110.32 seu@110.42 primeiro@110.56 projeto@110.86 e@111.32 coloca@111.68 no@112.02 ar.@112.30
+Você@112.62 escolhe@112.86 o@113.38 que@113.46 construir.@113.54
+Um@114.30 site,@114.40
+um@114.90 aplicativo,@114.98
+um@115.82 sistema.@115.94
+Faz@116.34 uma@116.76 conta@117.10 comigo.@117.42
+Quanto@118.02 tempo@118.22 você@118.52 passa@118.88 só@119.18 rolando@119.60 o@120.18 feed?@120.26
+Se@120.60 for@120.68 só@120.86 meia@121.12 hora@121.50 por@121.66 dia,@121.92
+num@122.28 ano,@122.38
+são@122.74 mais@122.92 de@123.20 180@123.50 horas.@124.06
+No@125.08 7D,@125.14
+pede@125.68 14,@125.94
+em@126.56 média.@126.76
+Isso@127.12 dá@127.26 em@127.46 torno@127.62 de@127.92 duas@128.08 horas@128.30 por@128.60 dia,@128.84
+durante@129.16 uma@129.44 semana.@129.76
+E@130.42 no@130.52 fim@130.62 dela,@130.82
+você@131.24 tem@131.48 uma@131.72 coisa@131.88 sua@132.18 no@132.52 ar.@132.76
+E@133.06 tudo@133.12 isso@133.38 dá@133.70 pra@133.90 fazer@134.08 pelo@134.42 celular,@134.62
+sem@135.22 pagar@135.40 nenhuma@135.62 ferramenta.@136.16
+Quer@137.16 ver@137.26 um@137.42 exemplo?@137.52
+Esse@138.08 daí@138.28 é@138.48 o@138.86 meu@138.92 celular.@139.08
+Lembra@139.66 da@139.98 pergunta@140.12 do@140.44 começo?@140.74
+Quanto@141.28 sai@141.62 do@141.84 seu@142.04 bolso@142.18 todo@142.58 mês?@142.76
+Eu@143.20 pedi@143.30 pra@143.60 IA@143.74 um@143.92 aplicativo@144.12 que@144.84 responde@145.04 isso.@145.60
+Você@145.94 acha?@146.20
+Você@146.32 anota@146.32 o@146.60 que@146.70 entra@146.84 e@147.14 o@147.36 que@147.42 sai.@147.52
+E@147.92 ele@147.98 te@148.12 mostra@148.26 pra@148.66 onde@148.96 o@149.20 seu@149.36 dinheiro@149.50 está@149.84 indo.@150.14
+Levou@150.58 43@150.96 minutos@151.36 pra@151.98 ficar@152.34 pronto,@152.56
+sem@153.08 computador,@153.28
+sem@154.12 programar@154.28 nada,@154.86
+e@155.32 está@155.50 no@155.72 ar.@155.98
+É@156.26 esse@156.38 tipo@156.54 de@156.80 coisa@156.96 que@157.22 você@157.40 constrói@157.62 no@158.28 arquiteto@158.44 7D.@159.16
+E@159.74 esse,@159.86
+do@160.14 exemplo,@160.26
+é@160.70 um@160.84 dos@160.98 mais@161.14 simples.@161.36
+Depois@162.14 que@162.44 você@162.70 desenvolver@162.92 o@163.64 seu@163.76 primeiro@163.90 projeto@164.22 aqui,@164.70
+você@165.20 aprende@165.40 a@165.88 transformar@165.90 ele@166.52 em@166.74 dinheiro.@167.10
+Como@167.62 achar@167.76 quem@168.10 precisa@168.24 dele,@168.56
+quanto@169.02 cobrar@169.24 e@169.68 como@169.88 receber@170.16 todo@170.54 mês.@171.04
+E@171.52 não@171.66 só@171.82 uma@172.08 vez.@172.26
+E@172.84 o@172.98 treinamento@173.04 tem@173.70 cinco@173.96 trilhas,@174.40
+que@176.32 vão@176.50 do@176.74 primeiro@176.90 projeto@177.16 até@177.64 um@178.10 sistema@178.24 completo@178.54 de@179.06 agentes@179.32 de@179.68 IA@179.92 que@180.12 trabalham@180.28 sozinho@180.82 pra@181.38 você.@181.52
+Cada@182.02 aula@182.18 tem@182.56 um@182.82 material@182.94 de@183.34 apoio@183.66 personalizado@183.96 do@184.92 lado@185.16 e@185.44 termina@185.60 com@186.12 uma@186.26 tarefa.@186.46
+Aqui@187.06 você@187.24 não@187.50 só@187.76 assiste,@187.98
+você@188.52 sai@188.66 com@189.04 algo@189.26 pronto.@189.56
+O@190.20 acesso@190.32 é@190.68 vitalício.@190.98
+Pagou@191.94 uma@192.24 vez,@192.50
+é@192.90 seu@193.12 pra@193.30 sempre.@193.46
+Quando@193.98 sai@194.16 aula@194.50 nova,@194.78
+entra@195.32 no@195.68 seu@195.86 acesso@196.04 sem@196.44 você@196.84 pagar@197.14 de@197.54 novo.@197.80
+Agora,@198.28
+a@198.90 parte@199.08 que@199.46 mais@199.68 importa.@199.88
+Conteúdo@200.58 sobre@201.10 IA@201.36 tem@201.66 de@201.88 graça@202.06 aos@202.52 montes.@202.72
+Se@203.32 conteúdo@203.54 bastasse,@203.96
+o@204.60 FID@204.78 já@205.10 teria@205.26 colocado@205.58 dinheiro@206.28 no@206.60 seu@206.92 bolso.@207.08
+O@207.54 que@207.64 te@207.76 falta@207.88 é@208.24 outra@208.56 coisa.@208.90
+E@209.50 eu@209.58 já@209.68 te@209.86 falei@209.98 qual@210.38 é.@210.58
+Sozinho,@210.86
+quase@211.38 ninguém@211.66 começa.@211.96
+E@212.74 quem@212.84 começa,@213.00
+quase@213.64 nunca@213.90 chega@214.24 ao@214.64 fim.@214.78
+Quem@215.14 nunca@215.26 começou,@215.58
+não@216.24 sabe@216.40 por@216.72 onde@216.98 ir.@217.20
+E@217.46 quem@217.60 já@217.74 comprou@217.94 curso,@218.30
+conhece@218.74 o@219.20 resto@219.28 da@219.46 história.@219.68
+Recebe@220.16 um@220.62 login,@220.74
+fica@221.20 sozinho@221.38 com@221.94 um@222.10 monte@222.18 de@222.38 aulas@222.54 e@222.92 trava@223.10 nas@223.36 primeiras@223.68 dúvidas.@224.18
+Nos@224.88 dois@225.04 casos,@225.24
+faltam@225.82 a@226.26 mesma@226.32 coisa.@226.58
+Alguém@227.18 pra@227.50 responder@227.60 quando@227.94 a@228.24 dúvida@228.42 aparece@228.70 e@229.00 gente@229.42 em@229.74 volta@229.88 fazendo@230.14 junto.@230.56
+Por@231.22 isso,@231.36
+aqui@231.68 você@231.90 não@232.18 fica@232.46 sozinho.@232.78
+Nem@233.44 no@233.66 primeiro@233.80 passo.@234.06
+Nem@234.48 no@234.86 último.@235.04
+Você@235.56 entra@235.82 no@236.22 nosso@236.44 grupo@236.62 do@237.06 WhatsApp@237.26 com@237.44 outros@238.00 alunos@238.42 e@239.10 com@239.24 a@239.38 gente,@239.52
+os@239.94 três@240.08 sócios.@240.40
+Travou?@241.04
+Manda@241.54 no@241.96 grupo,@242.08
+a@242.52 gente@242.60 responde.@242.86
+E@243.60 toda@243.70 semana@243.90 tem@244.30 live@244.64 com@244.94 a@245.18 gente@245.32 construindo@245.60 ao@246.42 vivo.@246.68
+Isso@247.14 importa@247.34 por@247.62 um@248.04 motivo@248.16 simples.@248.44
+O@249.26 ambiente@249.36 muda@249.70 quem@250.36 você@250.48 é.@250.76
+Se@251.16 todo@251.28 mundo@251.46 à@251.72 sua@251.92 volta@252.10 só@252.46 assiste,@252.70
+você@253.34 assiste@253.60 também.@254.20
+Se@254.60 todo@254.72 mundo@254.92 à@255.16 sua@255.34 volta@255.50 constrói,@255.80
+você@256.58 constrói.@256.90
+E@257.62 eu@257.70 não@257.84 tô@258.02 falando@258.18 isso@258.56 da@258.92 boca@259.20 pra@259.48 fora.@259.70
+Em@260.12 cinco@260.18 anos@260.50 de@260.78 mercado,@260.94
+foi@261.46 isso@261.62 que@261.84 eu@261.98 vi@262.06 separar@262.24 quem@262.74 dava@262.90 certo@263.24 de@263.58 quem@263.86 ficava@264.06 pelo@264.56 caminho.@264.78
+Por@265.26 isso,@265.38
+aqui,@265.72
+o@266.12 acompanhamento@266.24 não@267.12 é@267.32 um@267.52 extra.@267.62
+É@268.14 o@268.30 centro@268.34 de@268.70 tudo.@268.94

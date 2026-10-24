@@ -1,0 +1,65 @@
+[
+ {
+  "take": "take 12 _e pra ser arquiteto..._",
+  "off": 31.4,
+  "janela": [
+   32.55,
+   36.45
+  ],
+  "conf": 0.59
+ },
+ {
+  "take": "take 13 _mas só se vc agir_.mp4",
+  "off": 65.61,
+  "janela": [
+   66.8,
+   68.0
+  ],
+  "conf": 0.61
+ },
+ {
+  "take": "take 14 _agora eu vou ser direto com vc..._",
+  "off": 73.52,
+  "janela": [
+   74.4,
+   80.95
+  ],
+  "conf": 0.5
+ },
+ {
+  "take": "take 15 _pra começar, eu não vou te prometer dinheiro..._",
+  "off": 87.57,
+  "janela": [
+   87.6,
+   92.75
+  ],
+  "conf": 0.48
+ },
+ {
+  "take": "take 16 _quer ver um exemplo_..._",
+  "off": 136.29,
+  "janela": [
+   137.1,
+   139.5
+  ],
+  "conf": 0.48
+ },
+ {
+  "take": "take 17 _por isso, aqui você não fica sozinho..._",
+  "off": 230.87,
+  "janela": [
+   231.1,
+   235.4
+  ],
+  "conf": 0.39
+ },
+ {
+  "take": "take 18 _e eu não to falando isso da boca pra fora_.mp4",
+  "off": 256.37,
+  "janela": [
+   257.5,
+   260.1
+  ],
+  "conf": 0.49
+ }
+]

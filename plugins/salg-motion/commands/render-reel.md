@@ -5,7 +5,7 @@ argument-hint: "<pasta do reel> [stills 1.0,4.5,8.2 | video vN | trecho INICIO F
 
 Renderize o reel com estes argumentos: `$ARGUMENTS`
 
-Use a skill `ascii-onetake` deste plugin (referência: `references/DOC-PRODUCAO-VIDEOS.md` §22). Todos os comandos rodam dentro de `<reel>/projeto/`, com caminhos entre aspas.
+Use a skill `ascii-onetake` deste plugin (referência: `references/DOC-ESTILO.md` §15 e §16). Todos os comandos rodam dentro de `<reel>/projeto/` (numa VSL, `partes/<parte>/projeto/`), com caminhos entre aspas. O `render.py` é o mesmo nos dois motores. Se ele parar de avançar, mate o processo e rode de novo sem `--force`: só os quadros que faltam são refeitos.
 
 - **stills t1,t2,…** → `python render.py stills t1,t2,…`; leia `stills/sheet.png` e mostre ao usuário. Escolha instantes **depois** que cada morph termina.
 - **som** → `python render.py events` e `python sfx.py`; depois remonte o vídeo sem re-renderizar a imagem (`python render.py video --out …`, sem `--force`).
